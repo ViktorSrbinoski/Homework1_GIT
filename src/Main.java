@@ -7,5 +7,6 @@ public class Main {
         System.out.println("Viva Las Vegas");
 
         System.out.println("First branch change 1");
+        System.out.println("First branch change 2");
     }
 }
