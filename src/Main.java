@@ -8,5 +8,7 @@ public class Main {
 
         System.out.println("First branch change 1");
         System.out.println("First branch change 2");
+
+        System.out.println("Second branch change 1");
     }
 }
