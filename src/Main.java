@@ -11,5 +11,7 @@ public class Main {
 
         System.out.println("Second branch change 1");
         System.out.println("Second branch change 2");
+
+        System.out.println("Third branch change 1");
     }
 }
