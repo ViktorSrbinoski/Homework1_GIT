@@ -5,5 +5,7 @@ public class Main {
         System.out.println("I am Viktor");
         System.out.println("I like giro");
         System.out.println("Viva Las Vegas");
+
+        System.out.println("First branch change 1");
     }
 }
